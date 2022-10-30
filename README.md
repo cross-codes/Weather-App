@@ -1,2 +1,2 @@
 # Weather-App
-A weather app written in Python (Date: 08/10/2022)
+A weather app written in Python (Dated: 08/10/2022)
