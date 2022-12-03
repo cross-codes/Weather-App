@@ -1,7 +1,7 @@
 # Weather-App v1.1
 A weather app written in Python.
 
-Current version : v1.1
+Current version: v1.1
 
 Project started on: 08/10/2022
 
