@@ -1,5 +1,5 @@
 <div align="center">
-<h1>🌧️ Weather-App</h1>
+<h1>🌧️ Weather-App v1.0</h1>
 
 A weather app developed in python
 
