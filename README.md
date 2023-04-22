@@ -1,7 +1,7 @@
 <div align="center">
 <h1>🌧️ Weather-App</h1>
 
-A weather app written in python
+A weather app developed in python
 
 Current version v1.1
 </div>
