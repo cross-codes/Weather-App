@@ -3,7 +3,7 @@
 
 A weather app developed in python
 
-Current version v1.1
+Current version : 1.1
 </div>
 
 ---
